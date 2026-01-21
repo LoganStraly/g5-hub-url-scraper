@@ -1,9 +1,1 @@
-javascript:(function() {
-    var rawFileUrl = 'https://raw.githubusercontent.com/LoganStraly/g5-hub-url-scraper/refs/heads/main/code.js';
-    fetch(rawFileUrl)
-        .then(response => response.text())
-        .then(code => {
-            eval(code);
-        })
-        .catch(error => console.error('Error fetching code:', error));
-})();
+function _0x3ffd(_0x263d5a,_0x228d88){_0x263d5a=_0x263d5a-0x6a;var _0x5e5323=_0x5e53();var _0x3ffd02=_0x5e5323[_0x263d5a];return _0x3ffd02;}function _0x5e53(){var _0x3d8af0=['1993925mTqFry','then','4527508KCZCxS','3906246DYNWfk','1578298ruPAyO','Error\x20fetching\x20code:','text','315LicBGL','875352VuVYCA','618410JqwTfF','14Nxyfei','1BNabJS','3708056IsdGcv'];_0x5e53=function(){return _0x3d8af0;};return _0x5e53();}(function(_0x425aa0,_0x4c2f40){var _0x1373a1=_0x3ffd,_0x6e9d8c=_0x425aa0();while(!![]){try{var _0x4fa7f0=parseInt(_0x1373a1(0x6f))/0x1*(-parseInt(_0x1373a1(0x75))/0x2)+parseInt(_0x1373a1(0x74))/0x3+parseInt(_0x1373a1(0x73))/0x4+parseInt(_0x1373a1(0x71))/0x5+-parseInt(_0x1373a1(0x6c))/0x6+-parseInt(_0x1373a1(0x6e))/0x7*(-parseInt(_0x1373a1(0x70))/0x8)+-parseInt(_0x1373a1(0x6b))/0x9*(parseInt(_0x1373a1(0x6d))/0xa);if(_0x4fa7f0===_0x4c2f40)break;else _0x6e9d8c['push'](_0x6e9d8c['shift']());}catch(_0x4c9a4f){_0x6e9d8c['push'](_0x6e9d8c['shift']());}}}(_0x5e53,0xa133a));_0x206a79:(function(){var _0x4d7c51=_0x3ffd,_0x4099e8='https://raw.githubusercontent.com/LoganStraly/g5-hub-url-scraper/refs/heads/main/code.js';fetch(_0x4099e8)['then'](_0x537d11=>_0x537d11[_0x4d7c51(0x6a)]())[_0x4d7c51(0x72)](_0xa9c1b0=>{eval(_0xa9c1b0);})['catch'](_0x37fe72=>console['error'](_0x4d7c51(0x76),_0x37fe72));}());
